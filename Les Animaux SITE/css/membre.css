@@ -1,0 +1,19 @@
+table{
+    width: 45%;
+    border: 1px solid #0003A7;
+    border-collapse: collapse;
+}
+thead tr{
+    background: cadetblue;
+}
+table tr,td{
+    text-align: center;
+    border: 1px solid #add;
+    padding: 5px
+}
+tbody a{
+    text-decoration: none;
+}
+tbody tr:nth-child(even){
+    background-color: #f2f3f4;
+}
